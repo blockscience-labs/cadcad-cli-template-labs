@@ -20,6 +20,7 @@ Optionally, you can install the `labs` template for future use (negating the nee
 cadcad-cli --install-template=https://github.com/blockscience-labs/cadcad-template-labs --name=labs
 ```
 
+And scaffold with:
 ```bash
 cadcad-cli --template=labs
 ```
