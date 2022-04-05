@@ -20,6 +20,10 @@ Optionally, you can install the `labs` template for future use (negating the nee
 cadcad-cli --install-template=https://github.com/blockscience-labs/cadcad-template-labs --name=labs
 ```
 
+```bash
+cadcad-cli --template=labs
+```
+
 ## The Labs-ready cadCAD Model
 The Labs model you scaffold from our template will be built against cadCAD 0.4.28 and will include the following:
 - `example-data.csv`: a CSV file containing pre-generated data that you can experiment with right away
