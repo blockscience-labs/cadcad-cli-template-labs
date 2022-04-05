@@ -17,7 +17,7 @@ cadcad-cli --template=https://github.com/blockscience-labs/cadcad-cli-template-l
 
 Optionally, you can install the `labs` template for future use (negating the need to specify the URL with each scaffold):
 ```bash
-cadcad-cli --install-template=https://github.com/blockscience-labs/cadcad-cli-template-labs --name=labs
+cadcad-cli --install-template=https://github.com/blockscience-labs/cadcad-cli-template-labs
 ```
 
 ## The Labs-ready cadCAD Model
