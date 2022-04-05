@@ -1,4 +1,4 @@
-# Labs Template (for cadCAD CLI)
+# Labs cadCAD Template
 Creating a new cadCAD project that is Labs-ready is very simple using the cadCAD CLI `labs` template.
 
 ## Install the cadCAD CLI
