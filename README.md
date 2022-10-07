@@ -32,3 +32,7 @@ The Labs model you scaffold from our template will be built against cadCAD 0.4.2
 - `example-local.ipynb`: a Jupyter Notebook containing example code demonstrating the offline execution of the model directly from within the notebook itself
 - `model`: a directory containing a very simple [Robots and Marbles](https://github.com/cadCAD-org/demos/tree/master/tutorials/robots_and_marbles) model configured for 3 monte-carlo runs and a `model_id` of `default`
 - `labs.py`: a Labs-required file that makes your `Experiment` object available and defines the parent directory containing all your model logic
+- `requirements.txt`: the Python dependencies required for your model to run -- these are installed automatically by the Labs platform if present
+- `post-requirements.txt`: the Python dependencies required for post-processing and analytics pipelines -- these are installed automatically by the Labs platform when you start a JupyerLab instance if present
+- `docs`: a directory containing the mkdocs docsite for the project
+- `mkdocs.yml`: a configuration for mkdocs that dictates how to build the projects docsite
