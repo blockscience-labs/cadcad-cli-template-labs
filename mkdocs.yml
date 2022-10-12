@@ -1,2 +1,5 @@
 nav:
     - index.md
+    - hello-world.ipynb
+plugins:
+    - mkdocs-jupyter
